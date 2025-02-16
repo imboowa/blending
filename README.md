@@ -10,7 +10,7 @@ I am a passionate developer with expertise in **Python** and **C++** programming
 
 ## Technologies Used
 
-- **Tools**: Blender, iMovie
+- **Tools**: Blender, iMovie, Rhythm Pads
 
 ## Live Website
 
