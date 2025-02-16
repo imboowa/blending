@@ -4,6 +4,9 @@
 
 Welcome to this blender-chair project by  **Immanuel Mboowa**. This repository contains the chairs that I made, which showcases my work in blender and learning it as well.
 
+# Note
+You won't see the full animation though in the blender file because I rendered in bits in order to check for errors and faster production.
+
 ## About Me
 
 I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **Artificial Intelligence**, **Computational Biology**, **3D Animation**, and **Web Development**. My goal is to create innovative solutions that contribute to these fields.
