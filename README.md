@@ -2,7 +2,7 @@
 
 # Immanuel Mboowa
 
-Welcome to this blender-chair project by  **Immanuel Mboowa**. This repository contains the the chairs that I made, which showcases my work in blender and learning it as well.
+Welcome to this blender-chair project by  **Immanuel Mboowa**. This repository contains the chairs that I made, which showcases my work in blender and learning it as well.
 
 ## About Me
 
@@ -10,7 +10,7 @@ I am a passionate developer with expertise in **Python** and **C++** programming
 
 ## Technologies Used
 
-- **Tools**: Blender, IMovie
+- **Tools**: Blender, iMovie
 
 ## Live Website
 
