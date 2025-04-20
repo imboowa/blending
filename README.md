@@ -9,7 +9,7 @@ You won't see the full animation though in the blender file because I rendered i
 
 ## About Me
 
-I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **Artificial Intelligence**, **Computational Biology**, **3D Animation**, and **Web Development**. My goal is to create innovative solutions that contribute to these fields.
+I am a passionate developer with expertise in **Python** and **C++** programming. I am particularly interested in **making the next quantum computer**, **Artificial Intelligence**, **Computational Biology**, **3D Animation**, and **Web Development**. My goal is to create innovative solutions that contribute to these fields.
 
 ## Technologies Used
 
@@ -28,8 +28,4 @@ You can reach out to me via the following links:
 - **Email**: [emboowae@gmail.com](mailto:emboowae@gmail.com)
 - **GitHub**: [https://github.com/imboowa](https://github.com/imboowa)
 - **LinkedIn**: [https://www.linkedin.com/in/immanuel-mboowa-773b65343/](https://www.linkedin.com/in/immanuel-mboowa-773b65343/)
-
-## License
-
-© 2025 Immanuel Mboowa. All Rights Reserved
 
