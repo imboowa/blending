@@ -1,5 +1,6 @@
 # blending
 
+
 # Immanuel Mboowa
 
 Welcome to this blender-chair project by  **Immanuel Mboowa**. This repository contains the chairs that I made, which showcases my work in blender and learning it as well.
